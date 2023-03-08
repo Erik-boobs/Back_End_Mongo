@@ -1,4 +1,4 @@
-# Capturas de pantalla
+# README.md
 
 ### El proyecto esta en la rama master
 
